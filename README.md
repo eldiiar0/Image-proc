@@ -31,8 +31,5 @@
 
 ## Installation
 
-Install the dependencies .
+Install the dependencies by pip.
 
-```sh
-npm i
-```
